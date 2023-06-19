@@ -7,7 +7,7 @@ public class AddTwoMtrix {
 		int b[][]={{1,3,4},{2,4,3},{1,2,4}};    
 		
 		int[][] c=new int[3][3];
-System.out.println("...... . A ..............");
+System.out.println("...... Array A ..............");
 for(int i=0; i<3; i++)
 {
 	for(int j=0; j<3; j++)
@@ -17,7 +17,7 @@ for(int i=0; i<3; i++)
 	System.out.println();
 }
 
-System.out.println("...... B ........");
+System.out.println("...... Array B ........");
 for(int i=0; i<3; i++)
 {
 	for(int j=0; j<3; j++)
